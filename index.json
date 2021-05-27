@@ -8,6 +8,10 @@
         {
             "name": "Colors",
             "url": "https://raw.githubusercontent.com/verachell/English-word-lists-miscellaneous-categories/main/wordlists/Colors.txt"
+        },
+        {
+            "name": "First Names",
+            "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
         }
     ]
 }
