@@ -12,6 +12,10 @@
         {
             "name": "First Names",
             "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
+        },
+        {
+            "name": "Last Names",
+            "path": "last-names.txt"
         }
     ]
 }
