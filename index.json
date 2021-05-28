@@ -16,6 +16,10 @@
         {
             "name": "Last Names",
             "path": "last-names.txt"
+        },
+        {
+            "name": "Numbers",
+            "type": "numbers"
         }
     ]
 }
