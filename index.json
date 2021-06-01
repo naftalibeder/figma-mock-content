@@ -12,6 +12,10 @@
         {
             "name": "Numbers",
             "type": "numbers"
+        },
+        {
+            "name": "Dates",
+            "type": "dates"
         }
     ]
 }
