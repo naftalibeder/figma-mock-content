@@ -12,14 +12,6 @@
         {
             "name": "Addresses",
             "path": "addresses.txt"
-        },
-        {
-            "name": "Numbers",
-            "type": "numbers"
-        },
-        {
-            "name": "Dates",
-            "type": "dates"
         }
     ]
 }
