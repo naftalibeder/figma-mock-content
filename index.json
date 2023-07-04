@@ -3,11 +3,11 @@
     "lists": [
         {
             "name": "Pizza name",
-            "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
+            "url": "names.txt"
         },
         {
             "name": "Pizza ingredients",
-            "path": "last-names.txt"
+            "path": "ingredients.txt"
         }
     ]
 }
