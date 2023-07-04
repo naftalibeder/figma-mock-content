@@ -3,7 +3,7 @@
     "lists": [
         {
             "name": "Pizza name",
-            "url": "names.txt"
+            "url": "https://github.com/fabiosantaniellobruun/figma-mock-content/blob/main/names.txt"
         },
         {
             "name": "Pizza ingredients",
