@@ -1,17 +1,13 @@
 {
-    "name": "Default",
+    "name": "XD",
     "lists": [
         {
-            "name": "First Names",
+            "name": "Pizza name",
             "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
         },
         {
-            "name": "Last Names",
+            "name": "Pizza ingredients",
             "path": "last-names.txt"
-        },
-        {
-            "name": "Addresses",
-            "path": "addresses.txt"
         }
     ]
 }
